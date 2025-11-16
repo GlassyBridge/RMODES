@@ -2,7 +2,6 @@
 
 :root {
     --primary-color: #113257;
-    --secondary-color: #50E3C2;
     --dark-bg: #d5ddeb;
     --light-bg: #081430;
     --text-color: #becfe1;
@@ -23,6 +22,7 @@ body {
     align-items: center;
     min-height: 100vh;
     overflow-x: hidden;
+    overflow-y: hidden;
 }
 
 .container {
